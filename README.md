@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://github.com/CodingMakotoEpitech/RockPaperScissors/assets/147186020/ce8cfa24-43b6-48f2-a8ab-03ffacebd961" alt="Logo">
+   <img src="https://github.com/CodingMakotoEpitech/RockPaperScissors/assets/147186020/ce8cfa24-43b6-48f2-a8ab-03ffacebd961" alt="Logo" width="232" height="186">
 
   <h3 align="center">E-mma IT Content</h3>
 
